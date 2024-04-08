@@ -33,7 +33,7 @@
     </Content>
     <Content Include="..\..\artifacts\windows_amd64\*">
       <Pack>true</Pack>
-      <PackagePath>tools\net6.0\any\runtimes\win10-x64\native</PackagePath>
+      <PackagePath>tools\net6.0\any\runtimes\win-x64\native</PackagePath>
     </Content>
      <Content Include="..\..\artifacts\linux_amd64\*">
       <Pack>true</Pack>
